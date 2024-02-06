@@ -1,4 +1,5 @@
-# MiraVagas ![header]![logo 1](https://github.com/xenobil/MiraVagas/assets/29098783/25041480-4c8d-442b-8165-c1c99c1895b5)
+# MiraVagas 
+![logo 1](https://github.com/xenobil/MiraVagas/assets/29098783/25041480-4c8d-442b-8165-c1c99c1895b5)
 
 > Status: Developing ⚠️
 
