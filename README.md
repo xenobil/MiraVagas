@@ -1,74 +1,56 @@
 # MiraVagas 
 ![logo 1](https://github.com/xenobil/MiraVagas/assets/29098783/25041480-4c8d-442b-8165-c1c99c1895b5)
 
-> Status: Developing ⚠️
+> Status: Interrompido
 
-### It is a web application planned by me, where I perform the CRUD of Calisthenics Movements.
+### Aqui está um site simples de apresentação de um aplicativo para smartphone. 
 
-## Some fields in main Model is:
+## Temos as abas:
 
-+ name 
-+ description
-+ repetation num
-+ sequency num
-+ dificult category
-+ i know
-+ user_id
-+ image
++ Início
++ Quem somos
++ Como Funciona
++ Contato
+
   
-Also that, has a User with this fields:
+Aqui se encontra todos os arquivos necessários para rodar o site:
 
-+ name
-+ email
-+ cpf
-+ birth
-+ active
++ Arquivos html
++ css
++ IMG
 
-## In addition to CRUD, I implement other features such as:
 
-* See the more recently movement created, using Cookie.
-* Entire verification system to validate forms with personalized messages.
-* Message of success when create a movement, using Session Flash.
-* Profile User editable.
+## Para abrir o site:
 
-## This features are in developing:
+* Baixar arquivo(.rar)
+* Descompactar e usar a pasta no VScode.
+* E clicar em Go Live.
 
-- Search for movements by name and/or dificulted category.
-- Email verification.
 
-## Technologies Used:
+## Os arquivos e códigos usados na aplicação para criar o app:
 
-<table>
-  <tr>
-    <td>PHP</td>
-    <td>Laravel</td>
-    <td>Composer</td>
-    <td>MySql</td>
-  </tr>
-  <tr>
-    <td>6.*</td>
-    <td>7.4</td>
-    <td>2.0</td>
-    <td>8.0</td>
-  </tr>
-</table>
+- São arquivos que não tenho mais acesso.
+- Projeto interrompido e base de dados usadas foi excluida
 
-## How to run the application:
+## Tecoligias usadas:
 
-1) run shell: composer install
-2) run shell: php artisan key:generate
-3) create new Schema MySql
-4) create file .env (can copy from .env.example)
-5) configure your database variables in .env
-6) run shell: php artisan migrate
-7) run shell: php artisan serve
+<ul>
+        <li>Sistema de Posicionamento Global (GPS)</li>
+        <li>Redes de dados móveis</li>
+        <li>Sensores do dispositivo (acelerômetros, giroscópios, magnetômetros)</li>
+        <li>Mapas digitais e serviços de geocodificação</li>
+        <li>Algoritmos de roteamento e otimização de tráfego</li>
+        <li>Inteligência Artificial (IA)</li>
+        <li>Realidade Aumentada (RA)</li>
+        <li>APIs de Mapas (Google Maps, Mapbox, HERE)</li>
+        <li>Geocodificação Reversa</li>
+        <li>Bancos de Dados Espaciais</li>
+        <li>Tecnologia de Navegação por Voz</li>
+        <li>Sensores Avançados do Dispositivo</li>
+        <li>Machine Learning e Análise Preditiva</li>
+        <li>Protocolo MQTT</li>
+    </ul>
 
-## How to use mail service:
 
-1) create free account in mailtrap
-2) into of mailtrap site, go to My Inbox
-3) go to SMT settigns
-4) choice Laravel option in Integrations
-5) copy and past in your .env
 
-<center><img src="https://user-images.githubusercontent.com/38620899/106393900-5aa85880-63d8-11eb-88f1-07ac30adad80.gif"></center>
+![image](https://github.com/xenobil/MiraVagas/assets/29098783/d45ba7c7-f302-4425-8861-983f01510ad5)
